@@ -950,6 +950,7 @@ void Item_factory::init()
     add_iuse( "PICK_LOCK", &iuse::pick_lock );
     add_iuse( "PICKAXE", &iuse::pickaxe );
     add_iuse( "PLANTBLECH", &iuse::plantblech );
+    add_iuse( "PROPHYLACTIC_ANTIVENOM", &iuse::prophylactic_antivenom );
     add_iuse( "POISON", &iuse::poison );
     add_iuse( "PORTABLE_GAME", &iuse::portable_game );
     add_iuse( "FITNESS_CHECK", &iuse::fitness_check );
